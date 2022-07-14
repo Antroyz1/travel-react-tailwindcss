@@ -52,10 +52,10 @@ const Navbar = () => {
           </div>
           <div className="flex justify-between my-4">
             <a href="http://www.instagram.com/roymond.chandra.p">
-              <FaFacebook className="icon" />
+              <FaInstagram className="icon" />
             </a>
             <FaTwitter className="icon" />
-            <FaInstagram className="icon" />
+            <FaFacebook className="icon" />
             <FaPinterest className="icon" />
             <FaYoutube className="icon" />
           </div>
