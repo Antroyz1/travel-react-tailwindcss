@@ -17,21 +17,11 @@ const Footer = () => {
         </div>
         <div className="flex justify-between">
           <ul className="lg:flex">
-            <a href="#" target="_blank">
-              <li>About</li>
-            </a>
-            <a href="#" target="_blank">
-              <li>Partnerships</li>
-            </a>
-            <a href="#" target="_blank">
-              <li>Careers</li>
-            </a>
-            <a href="#" target="_blank">
-              <li>Newsroom</li>
-            </a>
-            <a href="#" target="_blank">
-              <li>Advertising</li>
-            </a>
+            <li>About</li>
+            <li>Partnerships</li>
+            <li>Careers</li>
+            <li>Newsroom</li>
+            <li>Advertising</li>
           </ul>
           <ul className="text-right lg:flex">
             <li>Home</li>
